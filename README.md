@@ -85,7 +85,7 @@ A Flutter application to decode Sri Lankan National Identity Card (NIC) numbers.
 
 ---
 
-## **Testing** �
+## **Testing** 🧪
 
 The app includes unit tests for the NIC decoding logic. To run the tests, use the following command:
 
