@@ -25,13 +25,10 @@ A Flutter application to decode Sri Lankan National Identity Card (NIC) numbers.
   - **Flutter** for cross-platform development.
   - **GetX** for state management and navigation.
 
-## **Screenshots** 📸
-Input Screen	Result Screen
-![Input Screen](https://github.com/user-attachments/assets/1c8e558b-7f00-41e9-bd4b-a2a7abe22dba)
-![Result Screen](https://github.com/user-attachments/assets/37218067-1626-4210-ade3-4b7b35ea633b)
-
-	
- 
+## Screenshots 📸
+| Input Screen | Result Screen |
+|--------------|---------------|
+| ![Input Screen](https://github.com/user-attachments/assets/1c8e558b-7f00-41e9-bd4b-a2a7abe22dba) | ![Result Screen](https://github.com/user-attachments/assets/37218067-1626-4210-ade3-4b7b35ea633b) |
 
 
 ## **How to Use** 🚀
